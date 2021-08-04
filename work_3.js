@@ -1,3 +1,4 @@
+
 particlesJS("particles-js", {
   "particles": {
     "number": {
@@ -86,3 +87,9 @@ $("#g-nav a").click(function () {//ナビゲーションのリンクがクリッ
     $("#g-nav").removeClass('panelactive');//ナビゲーションのpanelactiveクラスを除去
     $(".circle-bg").removeClass('circleactive');//丸背景のcircleactiveクラスを除去
 });
+
+
+
+
+
+
