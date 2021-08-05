@@ -787,6 +787,7 @@ opacity: 0;
   #wrapper_1 h1 {
     font-size: 35px;
     letter-spacing: 0.8rem;
+    text-indent: 0.8em;
   }
   #myself img {
     width: 250px;
