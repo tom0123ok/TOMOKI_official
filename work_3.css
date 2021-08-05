@@ -786,7 +786,9 @@ opacity: 0;
 @media (max-width: 375px) {
   #wrapper_1 h1 {
     font-size: 35px;
+    width: 90%;
     letter-spacing: 0.8rem;
+    margin-left: 1.4rem;
   }
   #myself img {
     width: 250px;
