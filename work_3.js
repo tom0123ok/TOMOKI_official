@@ -29,7 +29,7 @@ particlesJS("particles-js", {
         "color": "#fff"
       },
       "image": {
-        "src": "https://github.com/tom0123ok/TOMOKI_official/blob/main/snow.png?raw=true",//画像を指定
+        "src": "https://github.com/tom0123ok/TOMOKI_official/blob/main/snow.png?raw=true",//画像を指定.
         "width": 120,
         "height": 120
       }
